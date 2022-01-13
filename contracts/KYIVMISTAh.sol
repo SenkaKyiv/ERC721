@@ -13,7 +13,6 @@ contract KYIVMISTAh is ERC721, ERC721URIStorage, Ownable {
 
     constructor() ERC721("KYIVMISTAh40:20", "40:20") {}
     //KYIVMISTAh - 40:20
-git
 
 // 1. Незалежно від стилю
 // 2. Алхімія
